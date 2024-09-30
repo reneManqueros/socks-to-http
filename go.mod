@@ -1,10 +1,10 @@
 module sockstohttp
 
-go 1.20
+go 1.21
 
 require (
-	github.com/spf13/cobra v1.8.0
-	golang.org/x/net v0.19.0
+	github.com/spf13/cobra v1.8.1
+	golang.org/x/net v0.29.0
 )
 
 require (
